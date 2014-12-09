@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name                          = 'DragAble'
+  s.name                          = 'DraggAble'
   s.version                       = '0.0.1'
   s.summary                       = 'Uicontrol enable to Drag and drop'
   s.homepage                      = 'https://github.com/MaiquanNguyen/SimpleDragDrop'
